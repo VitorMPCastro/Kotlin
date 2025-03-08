@@ -1,4 +1,4 @@
-package Lista.ExUm
+package lista.exUm
 
 /*A definição de peso ideal é uma equação de reta, logo,
  vou usar a fórmula de uma função linear (MX+B)

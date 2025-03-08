@@ -1,6 +1,6 @@
-package Lista.ExDois
+package lista.exDois
 
-fun ExDois () {
+fun exDois () {
     val userList = UserList()
 
     // Exemplo de adição de valores

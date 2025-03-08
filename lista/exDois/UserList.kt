@@ -1,6 +1,4 @@
-package Lista.ExDois
-
-import com.sun.jdi.Value
+package lista.exDois
 
 class UserList {
     private val values = mutableListOf<Double>()

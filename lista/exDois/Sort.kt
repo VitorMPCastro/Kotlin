@@ -1,4 +1,4 @@
-package Lista.ExDois
+package lista.exDois
 
 abstract class Sort<T : Comparable<T>> {
     abstract fun sort(list: List<T>) : List<T>

@@ -1,4 +1,4 @@
-package Lista.ExUm
+package lista.exUm
 
 enum class GeneroBioEnum{
     MASC, FEM, NULL

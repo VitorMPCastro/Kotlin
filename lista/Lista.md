@@ -1,4 +1,4 @@
-# Lista de Exercícios de Tópicos
+# lista de Exercícios de Tópicos
 
 ## 1. Cálculo do Peso Ideal
 

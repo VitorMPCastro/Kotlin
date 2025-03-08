@@ -1,4 +1,4 @@
-package Lista.ExUm
+package lista.exUm
 
 fun ExUm() {
     val Alanito = Pessoa(1.74f, GeneroBioEnum.MASC)
