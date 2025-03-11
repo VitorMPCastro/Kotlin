@@ -1,6 +1,6 @@
 package lista
-import lista.exTres.*
+import lista.exSete.exSete
 
 fun main() {
-    exTres()
+    exSete()
 }
