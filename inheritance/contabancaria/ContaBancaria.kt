@@ -3,8 +3,7 @@ package inheritance.contabancaria
 import inheritance.idsys.AccountNumber
 import inheritance.titular.Titular
 
-abstract class ContaBancaria {
-    abstract val titular: Titular
+abstract class ContaBancaria(private val titular: Titular) {
     val numConta: AccountNumber = AccountNumber()
     var saldo: Float = 0.0f
 

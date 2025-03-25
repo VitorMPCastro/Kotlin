@@ -4,4 +4,4 @@ import inheritance.contabancaria.ContaBancaria
 import inheritance.titular.Titular
 import java.time.LocalDate
 
-class ContaCorrente(override val titular: Titular) : ContaBancaria() {}
+class ContaCorrente(titular: Titular) : ContaBancaria(titular) {}
